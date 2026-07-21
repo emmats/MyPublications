@@ -16,4 +16,8 @@ Steps (wait for approval between each):
    - Files: `index.html`, `styles.css`, `app.js`, `data.json`, `assets/headshot.jpg`.
    - Re-run the full pipeline: `python3 -X utf8 scripts/fetch_openalex_works.py A5038885394 data && python3 -X utf8 scripts/build_publications_list.py && python3 -X utf8 scripts/build_publications_xlsx.py && python3 -X utf8 scripts/build_site_data.py`.
    - Local preview: `python3 -m http.server 8743` from the `MyPublications` directory (fetch() of `data.json` needs http://, not file://).
-4. [ ] Publish live — GitHub Pages, target URL `emmats.github.io/MyPublications`.
+4. [x] Publish live — GitHub Pages (legacy/branch build from `main` at `/`), enabled via:
+   `gh api -X PUT repos/emmats/MyPublications/pages -f "build_type=legacy" -f "source[branch]=main" -f "source[path]=/"`
+   Live at https://emmats.github.io/MyPublications/
+
+Done. To refresh the site with new publications/citations later: re-run the pipeline commands in step 3, review locally, commit, push to `main` — GitHub Pages rebuilds automatically on push.
