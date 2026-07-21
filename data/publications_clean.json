@@ -1,0 +1,1740 @@
+[
+  {
+    "title": "Harmful algal blooms are preceded by a predictable and quantifiable shift in the oceanic microbiome",
+    "year": 2025,
+    "venue": "Nature Communications",
+    "type": "article",
+    "co_authors": [
+      "Miranda C. Mudge",
+      "Michael Riffle",
+      "Gabriella Chebli",
+      "Deanna L. Plubell",
+      "Tatiana A. Rynearson",
+      "William Stafford Noble",
+      "Julia Kubanek",
+      "Brook L. Nunn"
+    ],
+    "cited_by_count": 14,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 4
+      }
+    ],
+    "doi": "https://doi.org/10.1038/s41467-025-59250-y",
+    "openalex_id": "https://openalex.org/W4409879428"
+  },
+  {
+    "title": "Mechanisms underlying thermally induced growth plasticity in juvenile Pacific halibut",
+    "year": 2025,
+    "venue": "Journal of Experimental Biology",
+    "type": "article",
+    "co_authors": [
+      "Josep V. Planas",
+      "Andrew Jasonowicz",
+      "Anna Simeon",
+      "Crystal Simchick",
+      "Brook L. Nunn",
+      "Anita C. Kroska",
+      "Nathan Wolf",
+      "Thomas P. Hurst"
+    ],
+    "cited_by_count": 0,
+    "counts_by_year": [],
+    "doi": "https://doi.org/10.1242/jeb.251013",
+    "openalex_id": "https://openalex.org/W4414545057"
+  },
+  {
+    "title": "Mothers know best: Maternal signaling boosts larval resilience under ocean acidification conditions",
+    "year": 2025,
+    "venue": "Aquaculture",
+    "type": "article",
+    "co_authors": [
+      "Larken Root",
+      "Ryan Crim",
+      "Mollie A. Middleton",
+      "Megan M. Ewing",
+      "Jacob R. Winnikoff",
+      "Gracelyn Ham",
+      "Giles Goetz",
+      "Steven Roberts",
+      "Mackenzie Gavery"
+    ],
+    "cited_by_count": 1,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1016/j.aquaculture.2025.743388",
+    "openalex_id": "https://openalex.org/W4415845448"
+  },
+  {
+    "title": "Protein signatures predict coral resilience and survival to thermal bleaching events",
+    "year": 2025,
+    "venue": "Communications Earth & Environment",
+    "type": "article",
+    "co_authors": [
+      "Brook L. Nunn",
+      "Tanya Brown",
+      "Miranda C. Mudge",
+      "Michael Riffle",
+      "Jeremy B. Axworthy",
+      "Jenna Dilworth",
+      "Carly D. Kenkel",
+      "Jesse Zaneveld",
+      "Lisa J. Rodrigues",
+      "Jacqueline L. Padilla‐Gamiño"
+    ],
+    "cited_by_count": 14,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 8
+      }
+    ],
+    "doi": "https://doi.org/10.1038/s43247-025-02167-7",
+    "openalex_id": "https://openalex.org/W4408253631"
+  },
+  {
+    "title": "Proteomic Insights into Psychrophile Growth in Perchlorate-Amended Subzero Conditions: Implications for Martian Life Detection",
+    "year": 2025,
+    "venue": "Astrobiology",
+    "type": "article",
+    "co_authors": [
+      "Anais S. Gentilhomme",
+      "Kusum Dhakar",
+      "Matthew Chaw",
+      "Erin Firth",
+      "Karen Junge",
+      "Brook L. Nunn"
+    ],
+    "cited_by_count": 2,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1089/ast.2024.0065",
+    "openalex_id": "https://openalex.org/W4407640168"
+  },
+  {
+    "title": "Proteomic Plasticity in the Coral <i>Montipora capitata</i> Gamete Bundles after Parent Thermal Bleaching",
+    "year": 2025,
+    "venue": "Journal of Proteome Research",
+    "type": "article",
+    "co_authors": [
+      "Rayhan Khanna",
+      "Tanya Brown",
+      "Jenna Dilworth",
+      "Brendan MacLean",
+      "Miranda C. Mudge",
+      "Samuel J. White",
+      "Carly D. Kenkel",
+      "Lisa J. Rodrigues",
+      "Brook L. Nunn",
+      "Jacqueline L. Padilla‐Gamiño"
+    ],
+    "cited_by_count": 3,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 3
+      }
+    ],
+    "doi": "https://doi.org/10.1021/acs.jproteome.4c00946",
+    "openalex_id": "https://openalex.org/W4407941567"
+  },
+  {
+    "title": "An In‐Depth Coho Salmon (<i>Oncorhynchus kisutch)</i> Ovarian Follicle Proteome Reveals Coordinated Changes Across Diverse Cellular Processes during the Transition From Primary to Secondary Growth",
+    "year": 2024,
+    "venue": "PROTEOMICS",
+    "type": "article",
+    "co_authors": [
+      "Jennifer Telish",
+      "Chelsea Field",
+      "Chris Monson",
+      "José M. Guzmán",
+      "Brook L. Nunn",
+      "Graham Young",
+      "Kristy L. Forsgren"
+    ],
+    "cited_by_count": 1,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1002/pmic.202400311",
+    "openalex_id": "https://openalex.org/W4405201648"
+  },
+  {
+    "title": "Best practices for collecting and preserving marine mammal biological samples in the ‘omics era",
+    "year": 2024,
+    "venue": "Marine Mammal Science",
+    "type": "article",
+    "co_authors": [
+      "Amy M. Van Cise",
+      "Alexandra D. Switzer",
+      "Amy Apprill",
+      "Cory D. Champagne",
+      "Paul M. Chittaro",
+      "Natasha K. Dudek",
+      "Mackenzie Gavery",
+      "Brittany L. Hancock‐Hanser",
+      "Alaina Harmon",
+      "Alexander L. Jaffe",
+      "Nicholas M. Kellar",
+      "Carolyn A. Miller",
+      "Phillip A. Morin",
+      "Sarah E. Nelms",
+      "Kelly M. Robertson",
+      "Irvin R. Schultz",
+      "Ebru Ünal",
+      "Kim M. Parsons"
+    ],
+    "cited_by_count": 17,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      }
+    ],
+    "doi": "https://doi.org/10.1111/mms.13148",
+    "openalex_id": "https://openalex.org/W4399893917"
+  },
+  {
+    "title": "Diel metabolic patterns revealed by in situ transcriptome and proteome in a vertically migratory copepod",
+    "year": 2024,
+    "venue": "Molecular Ecology",
+    "type": "article",
+    "co_authors": [
+      "Amy E. Maas",
+      "Ann M. Tarrant",
+      "Brook L. Nunn",
+      "Jea Park",
+      "Leocadio Blanco‐Bercial"
+    ],
+    "cited_by_count": 8,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1111/mec.17284",
+    "openalex_id": "https://openalex.org/W4391144665"
+  },
+  {
+    "title": "Microbial Metagenomes Across a Complete Phytoplankton Bloom Cycle: High-Resolution Sampling Every 4 Hours Over 22 Days",
+    "year": 2024,
+    "venue": "Scientific Data",
+    "type": "data-paper",
+    "co_authors": [
+      "Brook L. Nunn",
+      "Miranda C. Mudge",
+      "Deanna L. Plubell",
+      "Gabriella Chebli",
+      "Julia Kubanek",
+      "Michael Riffle",
+      "William Stafford Noble",
+      "Elizabeth L. Harvey",
+      "Tasman A. Nunn",
+      "Tatiana Rynearson",
+      "Marcel Huntemann",
+      "Kurt LaButti",
+      "Brian Foster",
+      "Bryce Foster",
+      "Simon Roux",
+      "Krishna Palaniappan",
+      "Supratim Mukherjee",
+      "T. B. K. Reddy",
+      "Chris Daum",
+      "Alex Copeland",
+      "I-Min A. Chen",
+      "Natalia Ivanova",
+      "Nikos C. Kyrpides",
+      "Tijana Glavina del Rio",
+      "Emiley A. Eloe‐Fadrosh"
+    ],
+    "cited_by_count": 7,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      }
+    ],
+    "doi": "https://doi.org/10.1038/s41597-024-04013-5",
+    "openalex_id": "https://openalex.org/W4404615564"
+  },
+  {
+    "title": "Removal of Exogenous Stimuli Reveals a Canalization of Circadian Physiology in a Vertically Migrating Copepod",
+    "year": 2024,
+    "venue": "Journal of Proteome Research",
+    "type": "article",
+    "co_authors": [
+      "Amy E. Maas",
+      "Rayhan Khanna",
+      "Leocadio Blanco‐Bercial",
+      "Eric Huang",
+      "Brook L. Nunn"
+    ],
+    "cited_by_count": 1,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1021/acs.jproteome.4c00086",
+    "openalex_id": "https://openalex.org/W4396554571"
+  },
+  {
+    "title": "Reproductive resilience: pathways to gametogenic success in Montipora capitata after bleaching",
+    "year": 2024,
+    "venue": "Scientific Reports",
+    "type": "article",
+    "co_authors": [
+      "E Duselis",
+      "Tony Brown",
+      "J B Axworthy",
+      "C H Backstrom",
+      "Michael Riffle",
+      "J.R. Dilworth",
+      "Carly D. Kenkel",
+      "Lisa J. Rodrigues",
+      "Brook L. Nunn",
+      "Jacqueline L. Padilla‐Gamiño"
+    ],
+    "cited_by_count": 4,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      }
+    ],
+    "doi": "https://doi.org/10.1038/s41598-024-78768-7",
+    "openalex_id": "https://openalex.org/W4404322025"
+  },
+  {
+    "title": "Time course transcriptomic profiling suggests Crp/Fnr transcriptional regulation of nosZ gene in a N2O-reducing thermophile",
+    "year": 2024,
+    "venue": "iScience",
+    "type": "article",
+    "co_authors": [
+      "Jiro Tsuchiya",
+      "Sayaka Mino",
+      "Fuki Fujiwara",
+      "Nao Okuma",
+      "Yasunori Ichihashi",
+      "Robert M. Morris",
+      "Brook L. Nunn",
+      "Tomoo Sawabe"
+    ],
+    "cited_by_count": 1,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1016/j.isci.2024.111074",
+    "openalex_id": "https://openalex.org/W4402968375"
+  },
+  {
+    "title": "Proteomic response of early juvenile Pacific oysters ( <i>Crassostrea gigas</i> ) to temperature",
+    "year": 2022,
+    "venue": "PeerJ",
+    "type": "article",
+    "co_authors": [
+      "Grace Crandall",
+      "Rhonda Elliott Thompson",
+      "Benoït Eudeline",
+      "Brent Vadopalas",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 6,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.7717/peerj.14158",
+    "openalex_id": "https://openalex.org/W4306164250"
+  },
+  {
+    "title": "Shotgun Proteomics Identifies Active Metabolic Pathways in Bleached Coral Tissue and Intraskeletal Compartments",
+    "year": 2022,
+    "venue": "Frontiers in Marine Science",
+    "type": "article",
+    "co_authors": [
+      "Jeremy B. Axworthy",
+      "Tanya Brown",
+      "Lisa J. Rodrigues",
+      "Brook L. Nunn",
+      "Jacqueline L. Padilla‐Gamiño"
+    ],
+    "cited_by_count": 21,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 4
+      }
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.797517",
+    "openalex_id": "https://openalex.org/W4213056323"
+  },
+  {
+    "title": "Transitioning global change experiments on Southern Ocean phytoplankton from lab to field settings: Insights and challenges",
+    "year": 2022,
+    "venue": "Limnology and Oceanography",
+    "type": "article",
+    "co_authors": [
+      "Philip W. Boyd",
+      "Scott C. Doney",
+      "Sam Eggins",
+      "Michael J. Ellwood",
+      "Marion Fourquez",
+      "Brook L. Nunn",
+      "Robert F. Strzepek"
+    ],
+    "cited_by_count": 11,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1002/lno.12175",
+    "openalex_id": "https://openalex.org/W4283446179"
+  },
+  {
+    "title": "Coupled microbiome analyses highlights relative functional roles of bacteria in a bivalve hatchery",
+    "year": 2021,
+    "venue": "Environmental Microbiome",
+    "type": "article",
+    "co_authors": [
+      "Samuel J. White",
+      "Rhonda Elliott Thompson",
+      "Brent Vadopalas",
+      "Benoït Eudeline",
+      "Brook L. Nunn",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 20,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1186/s40793-021-00376-z",
+    "openalex_id": "https://openalex.org/W3117893475"
+  },
+  {
+    "title": "Physiological and molecular responses of lobe coral indicate nearshore adaptations to anthropogenic stressors",
+    "year": 2021,
+    "venue": "Scientific Reports",
+    "type": "article",
+    "co_authors": [
+      "Kaho H. Tisthammer",
+      "François Seneca",
+      "Brook L. Nunn",
+      "Robert H. Richmond"
+    ],
+    "cited_by_count": 48,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 5
+      }
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-82569-7",
+    "openalex_id": "https://openalex.org/W3127136793"
+  },
+  {
+    "title": "Larval Geoduck (Panopea generosa) Proteomic Response to Ciliates",
+    "year": 2020,
+    "venue": "Scientific Reports",
+    "type": "article",
+    "co_authors": [
+      "José M. Guzmán",
+      "Rhonda Elliott Thompson",
+      "Brent Vadopalas",
+      "Benoït Eudeline",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 13,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 4
+      }
+    ],
+    "doi": "https://doi.org/10.1038/s41598-020-63218-x",
+    "openalex_id": "https://openalex.org/W3016072640"
+  },
+  {
+    "title": "Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc",
+    "year": 2020,
+    "venue": "BMC Genomics",
+    "type": "article",
+    "co_authors": [
+      "Shelly A. Wanamaker",
+      "Kaitlyn R. Mitchell",
+      "Rhonda Elliott Thompson",
+      "Benoït Eudeline",
+      "Brent Vadopalas",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 10,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1186/s12864-020-07127-3",
+    "openalex_id": "https://openalex.org/W3093043727"
+  },
+  {
+    "title": "Characterization of Pacific oyster Crassostrea gigas proteomic response to natural environmental differences",
+    "year": 2019,
+    "venue": "Marine Ecology Progress Series",
+    "type": "article",
+    "co_authors": [
+      "Yaamini R. Venkataraman",
+      "MJ Horwith",
+      "AT Lowe",
+      "Brook L. Nunn",
+      "Brent Vadopalas",
+      "LH Spencer",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 9,
+    "counts_by_year": [
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.3354/meps12858",
+    "openalex_id": "https://openalex.org/W2951435042"
+  },
+  {
+    "title": "Dynamic response in the larval geoduck (<i>Panopea generosa</i>) proteome to elevated <i>p</i>CO<sub>2</sub>",
+    "year": 2019,
+    "venue": "Ecology and Evolution",
+    "type": "article",
+    "co_authors": [
+      "José M. Guzmán",
+      "Rhonda Elliott Thompson",
+      "Brent Vadopalas",
+      "Benoït Eudeline",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 30,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1002/ece3.5885",
+    "openalex_id": "https://openalex.org/W2994393534"
+  },
+  {
+    "title": "Growth phase proteomics of the heterotrophic marine bacterium Ruegeria pomeroyi",
+    "year": 2019,
+    "venue": "Scientific Data",
+    "type": "data-paper",
+    "co_authors": [
+      "Dasha Krayushkina",
+      "Jessica Faux",
+      "Damon May",
+      "Michael Riffle",
+      "H. Rodger Harvey",
+      "Brook L. Nunn"
+    ],
+    "cited_by_count": 3,
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1038/s41597-019-0308-y",
+    "openalex_id": "https://openalex.org/W2993893776"
+  },
+  {
+    "title": "Metaproteomics reveal that rapid perturbations in organic matter prioritize functional restructuring over taxonomy in western Arctic Ocean microbiomes",
+    "year": 2019,
+    "venue": "The ISME Journal",
+    "type": "article",
+    "co_authors": [
+      "Molly P. Mikan",
+      "H. Rodger Harvey",
+      "Michael Riffle",
+      "Damon May",
+      "Ian Salter",
+      "William Stafford Noble",
+      "Brook L. Nunn"
+    ],
+    "cited_by_count": 45,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 13
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1038/s41396-019-0503-z",
+    "openalex_id": "https://openalex.org/W2972185270"
+  },
+  {
+    "title": "Pacific geoduck (Panopea generosa) resilience to natural pH variation",
+    "year": 2019,
+    "venue": "Comparative Biochemistry and Physiology Part D Genomics and Proteomics",
+    "type": "article",
+    "co_authors": [
+      "Laura H. Spencer",
+      "Micah Horwith",
+      "Alexander T. Lowe",
+      "Yaamini R. Venkataraman",
+      "Brook L. Nunn",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 16,
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 3
+      }
+    ],
+    "doi": "https://doi.org/10.1016/j.cbd.2019.01.010",
+    "openalex_id": "https://openalex.org/W2951750927"
+  },
+  {
+    "title": "MS analysis of a dilution series of bacteria:phytoplankton to improve detection of low abundance bacterial peptides",
+    "year": 2018,
+    "venue": "Scientific Reports",
+    "type": "article",
+    "co_authors": [
+      "Molly P. Mikan",
+      "Ying S. Ting",
+      "H. Rodger Harvey",
+      "Brook L. Nunn"
+    ],
+    "cited_by_count": 6,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1038/s41598-018-27650-4",
+    "openalex_id": "https://openalex.org/W2808125195"
+  },
+  {
+    "title": "Variations in Copepod Proteome and Respiration Rate in Association with Diel Vertical Migration and Circadian Cycle",
+    "year": 2018,
+    "venue": "Biological Bulletin",
+    "type": "article",
+    "co_authors": [
+      "Amy E. Maas",
+      "Leocadio Blanco‐Bercial",
+      "Ali Lo",
+      "Ann M. Tarrant"
+    ],
+    "cited_by_count": 19,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1086/699219",
+    "openalex_id": "https://openalex.org/W2887774235"
+  },
+  {
+    "title": "Differential impacts of individual and combined exposures of deoxynivalenol and zearalenone on the HepaRG human hepatic cell proteome",
+    "year": 2017,
+    "venue": "Journal of Proteomics",
+    "type": "article",
+    "co_authors": [
+      "Marie-Caroline Smith",
+      "Monika Coton",
+      "Emmanuel Coton",
+      "Nolwenn Hymery",
+      "Brook L. Nunn",
+      "Stéphanie Madec"
+    ],
+    "cited_by_count": 14,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 3
+      }
+    ],
+    "doi": "https://doi.org/10.1016/j.jprot.2017.11.025",
+    "openalex_id": "https://openalex.org/W2773365826"
+  },
+  {
+    "title": "Human‐mediated evolution in a threatened species? Juvenile life‐history changes in Snake River salmon",
+    "year": 2017,
+    "venue": "Evolutionary Applications",
+    "type": "article",
+    "co_authors": [
+      "Robin S. Waples",
+      "Anna Elz",
+      "Billy D. Arnsberg",
+      "James R. Faulkner",
+      "Jeffrey J. Hard",
+      "Linda K. Park"
+    ],
+    "cited_by_count": 22,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 5
+      }
+    ],
+    "doi": "https://doi.org/10.1111/eva.12468",
+    "openalex_id": "https://openalex.org/W2588358924"
+  },
+  {
+    "title": "Integrating Discovery-driven Proteomics and Selected Reaction Monitoring To Develop a Noninvasive Assay for Geoduck Reproductive Maturation",
+    "year": 2017,
+    "venue": "Journal of Proteome Research",
+    "type": "article",
+    "co_authors": [
+      "Grace Crandall",
+      "Brent Vadopalas",
+      "Michael Riffle",
+      "Brook L. Nunn",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 31,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 3
+      }
+    ],
+    "doi": "https://doi.org/10.1021/acs.jproteome.7b00288",
+    "openalex_id": "https://openalex.org/W2951221880"
+  },
+  {
+    "title": "MetaGOmics: A Web-Based Tool for Peptide-Centric Functional and Taxonomic Analysis of Metaproteomics Data",
+    "year": 2017,
+    "venue": "Proteomes",
+    "type": "article",
+    "co_authors": [
+      "Michael Riffle",
+      "Damon May",
+      "Molly P. Mikan",
+      "Daniel Jaschob",
+      "William Stafford Noble",
+      "Brook L. Nunn"
+    ],
+    "cited_by_count": 74,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.3390/proteomes6010002",
+    "openalex_id": "https://openalex.org/W2780760144"
+  },
+  {
+    "title": "An Alignment-Free “Metapeptide” Strategy for Metaproteomic Characterization of Microbiome Samples Using Shotgun Metagenomic Sequencing",
+    "year": 2016,
+    "venue": "Journal of Proteome Research",
+    "type": "article",
+    "co_authors": [
+      "Damon May",
+      "Molly P. Mikan",
+      "H. Rodger Harvey",
+      "Elhanan Borenstein",
+      "Brook L. Nunn",
+      "William Stafford Noble"
+    ],
+    "cited_by_count": 53,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1021/acs.jproteome.6b00239",
+    "openalex_id": "https://openalex.org/W2474302342"
+  },
+  {
+    "title": "Critical decisions in metaproteomics: achieving high confidence protein annotations in a sea of unknowns",
+    "year": 2016,
+    "venue": "The ISME Journal",
+    "type": "article",
+    "co_authors": [
+      "Damon May",
+      "Molly P. Mikan",
+      "Michael Riffle",
+      "Chris Frazar",
+      "H. Rodger Harvey",
+      "William Stafford Noble",
+      "Brook L. Nunn"
+    ],
+    "cited_by_count": 94,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 16
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 20
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 15
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 9
+      }
+    ],
+    "doi": "https://doi.org/10.1038/ismej.2016.132",
+    "openalex_id": "https://openalex.org/W2552620815"
+  },
+  {
+    "title": "Physiological responses of a Southern Ocean diatom to complex future ocean conditions",
+    "year": 2015,
+    "venue": "Nature Climate Change",
+    "type": "article",
+    "co_authors": [
+      "Philip W. Boyd",
+      "Peter W. Dillingham",
+      "Christina M. McGraw",
+      "Edward A. Armstrong",
+      "Christopher E. Cornwall",
+      "Yuanyuan Feng",
+      "Catriona L. Hurd",
+      "Melanie Gault‐Ringold",
+      "Michael Y. Roleda",
+      "Brook L. Nunn"
+    ],
+    "cited_by_count": 192,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 16
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 14
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 13
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 26
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 22
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 17
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 16
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 19
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 32
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 11
+      }
+    ],
+    "doi": "https://doi.org/10.1038/nclimate2811",
+    "openalex_id": "https://openalex.org/W2256517354"
+  },
+  {
+    "title": "All dam-affected trout populations are not alike: fine scale geographic variability in resident rainbow trout in Icicle Creek, WA, USA",
+    "year": 2014,
+    "venue": "Conservation Genetics",
+    "type": "article",
+    "co_authors": [
+      "Gary A. Winans",
+      "Nick Gayeski"
+    ],
+    "cited_by_count": 10,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1007/s10592-014-0659-z",
+    "openalex_id": "https://openalex.org/W2010335054"
+  },
+  {
+    "title": "Proteomics of <scp> <i>C</i> </scp> <i>olwellia psychrerythraea</i> at subzero temperatures – a life with limited movement, flexible membranes and vital DNA repair",
+    "year": 2014,
+    "venue": "Environmental Microbiology",
+    "type": "article",
+    "co_authors": [
+      "Brook L. Nunn",
+      "Krystal Slattery",
+      "Karen A. Cameron",
+      "Karen Junge"
+    ],
+    "cited_by_count": 47,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 4
+      }
+    ],
+    "doi": "https://doi.org/10.1111/1462-2920.12691",
+    "openalex_id": "https://openalex.org/W1901282031"
+  },
+  {
+    "title": "Shotgun proteomics reveals physiological response to ocean acidification in Crassostrea gigas",
+    "year": 2014,
+    "venue": "BMC Genomics",
+    "type": "article",
+    "co_authors": [
+      "William D Coffey",
+      "Wilber Hua",
+      "Brook L. Nunn",
+      "Gary H. Dickinson",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 123,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 17
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 20
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 14
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1186/1471-2164-15-951",
+    "openalex_id": "https://openalex.org/W2030357303"
+  },
+  {
+    "title": "Shotgun proteomics as a viable approach for biological discovery in the Pacific oyster",
+    "year": 2013,
+    "venue": "Conservation Physiology",
+    "type": "article",
+    "co_authors": [
+      "Brook L. Nunn",
+      "David R. Goodlett",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 15,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1093/conphys/cot009",
+    "openalex_id": "https://openalex.org/W2113612054"
+  },
+  {
+    "title": "Characterization of genes involved in ceramide metabolism in the Pacific oyster (Crassostrea gigas)",
+    "year": 2012,
+    "venue": "BMC Research Notes",
+    "type": "article",
+    "co_authors": [
+      "Steven Roberts"
+    ],
+    "cited_by_count": 21,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      }
+    ],
+    "doi": "https://doi.org/10.1186/1756-0500-5-502",
+    "openalex_id": "https://openalex.org/W2035894528"
+  },
+  {
+    "title": "Elevated pCO2 causes developmental delay in early larval Pacific oysters, Crassostrea gigas",
+    "year": 2012,
+    "venue": "Marine Biology",
+    "type": "article",
+    "co_authors": [
+      "Michael J. O’Donnell",
+      "Carolyn S. Friedman",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 89,
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 14
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 9
+      }
+    ],
+    "doi": "https://doi.org/10.1007/s00227-012-2055-x",
+    "openalex_id": "https://openalex.org/W1985681700"
+  },
+  {
+    "title": "Genomic resource development for shellfish of conservation concern",
+    "year": 2012,
+    "venue": "Molecular Ecology Resources",
+    "type": "article",
+    "co_authors": [
+      "Carolyn S. Friedman",
+      "Dave C. Metzger",
+      "Samuel J. White",
+      "Steven Roberts"
+    ],
+    "cited_by_count": 14,
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 2
+      }
+    ],
+    "doi": "https://doi.org/10.1111/1755-0998.12052",
+    "openalex_id": "https://openalex.org/W2042551350"
+  }
+]
