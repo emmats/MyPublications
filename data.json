@@ -1,0 +1,853 @@
+{
+  "generated_from": "OpenAlex (author A5038885394), verified against Weebly publications page",
+  "stats": {
+    "total_papers": 41,
+    "total_citations": 1129,
+    "h_index": 17,
+    "most_cited_title": "Physiological responses of a Southern Ocean diatom to complex future ocean conditions",
+    "most_cited_count": 192
+  },
+  "cumulative_citations_by_year": [
+    {
+      "year": 2013,
+      "citations_that_year": 11,
+      "cumulative_citations": 11
+    },
+    {
+      "year": 2014,
+      "citations_that_year": 15,
+      "cumulative_citations": 26
+    },
+    {
+      "year": 2015,
+      "citations_that_year": 22,
+      "cumulative_citations": 48
+    },
+    {
+      "year": 2016,
+      "citations_that_year": 35,
+      "cumulative_citations": 83
+    },
+    {
+      "year": 2017,
+      "citations_that_year": 82,
+      "cumulative_citations": 165
+    },
+    {
+      "year": 2018,
+      "citations_that_year": 79,
+      "cumulative_citations": 244
+    },
+    {
+      "year": 2019,
+      "citations_that_year": 112,
+      "cumulative_citations": 356
+    },
+    {
+      "year": 2020,
+      "citations_that_year": 103,
+      "cumulative_citations": 459
+    },
+    {
+      "year": 2021,
+      "citations_that_year": 129,
+      "cumulative_citations": 588
+    },
+    {
+      "year": 2022,
+      "citations_that_year": 135,
+      "cumulative_citations": 723
+    },
+    {
+      "year": 2023,
+      "citations_that_year": 85,
+      "cumulative_citations": 808
+    },
+    {
+      "year": 2024,
+      "citations_that_year": 126,
+      "cumulative_citations": 934
+    },
+    {
+      "year": 2025,
+      "citations_that_year": 129,
+      "cumulative_citations": 1063
+    },
+    {
+      "year": 2026,
+      "citations_that_year": 64,
+      "cumulative_citations": 1127
+    }
+  ],
+  "papers": [
+    {
+      "title": "Harmful algal blooms are preceded by a predictable and quantifiable shift in the oceanic microbiome",
+      "year": 2025,
+      "venue": "Nature Communications",
+      "type": "article",
+      "authors": [
+        "Miranda C. Mudge",
+        "Michael Riffle",
+        "Gabriella Chebli",
+        "Deanna L. Plubell",
+        "Tatiana A. Rynearson",
+        "William Stafford Noble",
+        "Emma Timmins‐Schiffman",
+        "Julia Kubanek",
+        "Brook L. Nunn"
+      ],
+      "self_author_index": 6,
+      "cited_by_count": 14,
+      "doi": "https://doi.org/10.1038/s41467-025-59250-y"
+    },
+    {
+      "title": "Mechanisms underlying thermally induced growth plasticity in juvenile Pacific halibut",
+      "year": 2025,
+      "venue": "Journal of Experimental Biology",
+      "type": "article",
+      "authors": [
+        "Josep V. Planas",
+        "Andrew Jasonowicz",
+        "Anna Simeon",
+        "Crystal Simchick",
+        "Emma Timmins‐Schiffman",
+        "Brook L. Nunn",
+        "Anita C. Kroska",
+        "Nathan Wolf",
+        "Thomas P. Hurst"
+      ],
+      "self_author_index": 4,
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1242/jeb.251013"
+    },
+    {
+      "title": "Mothers know best: Maternal signaling boosts larval resilience under ocean acidification conditions",
+      "year": 2025,
+      "venue": "Aquaculture",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Larken Root",
+        "Ryan Crim",
+        "Mollie A. Middleton",
+        "Megan M. Ewing",
+        "Jacob R. Winnikoff",
+        "Gracelyn Ham",
+        "Giles Goetz",
+        "Steven Roberts",
+        "Mackenzie Gavery"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 1,
+      "doi": "https://doi.org/10.1016/j.aquaculture.2025.743388"
+    },
+    {
+      "title": "Protein signatures predict coral resilience and survival to thermal bleaching events",
+      "year": 2025,
+      "venue": "Communications Earth & Environment",
+      "type": "article",
+      "authors": [
+        "Brook L. Nunn",
+        "Tanya Brown",
+        "Emma Timmins‐Schiffman",
+        "Miranda C. Mudge",
+        "Michael Riffle",
+        "Jeremy B. Axworthy",
+        "Jenna Dilworth",
+        "Carly D. Kenkel",
+        "Jesse Zaneveld",
+        "Lisa J. Rodrigues",
+        "Jacqueline L. Padilla‐Gamiño"
+      ],
+      "self_author_index": 2,
+      "cited_by_count": 14,
+      "doi": "https://doi.org/10.1038/s43247-025-02167-7"
+    },
+    {
+      "title": "Proteomic Insights into Psychrophile Growth in Perchlorate-Amended Subzero Conditions: Implications for Martian Life Detection",
+      "year": 2025,
+      "venue": "Astrobiology",
+      "type": "article",
+      "authors": [
+        "Anais S. Gentilhomme",
+        "Kusum Dhakar",
+        "Emma Timmins‐Schiffman",
+        "Matthew Chaw",
+        "Erin Firth",
+        "Karen Junge",
+        "Brook L. Nunn"
+      ],
+      "self_author_index": 2,
+      "cited_by_count": 2,
+      "doi": "https://doi.org/10.1089/ast.2024.0065"
+    },
+    {
+      "title": "Proteomic Plasticity in the Coral <i>Montipora capitata</i> Gamete Bundles after Parent Thermal Bleaching",
+      "year": 2025,
+      "venue": "Journal of Proteome Research",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Rayhan Khanna",
+        "Tanya Brown",
+        "Jenna Dilworth",
+        "Brendan MacLean",
+        "Miranda C. Mudge",
+        "Samuel J. White",
+        "Carly D. Kenkel",
+        "Lisa J. Rodrigues",
+        "Brook L. Nunn",
+        "Jacqueline L. Padilla‐Gamiño"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 3,
+      "doi": "https://doi.org/10.1021/acs.jproteome.4c00946"
+    },
+    {
+      "title": "An In‐Depth Coho Salmon (<i>Oncorhynchus kisutch)</i> Ovarian Follicle Proteome Reveals Coordinated Changes Across Diverse Cellular Processes during the Transition From Primary to Secondary Growth",
+      "year": 2024,
+      "venue": "PROTEOMICS",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Jennifer Telish",
+        "Chelsea Field",
+        "Chris Monson",
+        "José M. Guzmán",
+        "Brook L. Nunn",
+        "Graham Young",
+        "Kristy L. Forsgren"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 1,
+      "doi": "https://doi.org/10.1002/pmic.202400311"
+    },
+    {
+      "title": "Best practices for collecting and preserving marine mammal biological samples in the ‘omics era",
+      "year": 2024,
+      "venue": "Marine Mammal Science",
+      "type": "article",
+      "authors": [
+        "Amy M. Van Cise",
+        "Alexandra D. Switzer",
+        "Amy Apprill",
+        "Cory D. Champagne",
+        "Paul M. Chittaro",
+        "Natasha K. Dudek",
+        "Mackenzie Gavery",
+        "Brittany L. Hancock‐Hanser",
+        "Alaina Harmon",
+        "Alexander L. Jaffe",
+        "Nicholas M. Kellar",
+        "Carolyn A. Miller",
+        "Phillip A. Morin",
+        "Sarah E. Nelms",
+        "Kelly M. Robertson",
+        "Irvin R. Schultz",
+        "Emma Timmins‐Schiffman",
+        "Ebru Ünal",
+        "Kim M. Parsons"
+      ],
+      "self_author_index": 16,
+      "cited_by_count": 17,
+      "doi": "https://doi.org/10.1111/mms.13148"
+    },
+    {
+      "title": "Diel metabolic patterns revealed by in situ transcriptome and proteome in a vertically migratory copepod",
+      "year": 2024,
+      "venue": "Molecular Ecology",
+      "type": "article",
+      "authors": [
+        "Amy E. Maas",
+        "Emma Timmins‐Schiffman",
+        "Ann M. Tarrant",
+        "Brook L. Nunn",
+        "Jea Park",
+        "Leocadio Blanco‐Bercial"
+      ],
+      "self_author_index": 1,
+      "cited_by_count": 8,
+      "doi": "https://doi.org/10.1111/mec.17284"
+    },
+    {
+      "title": "Microbial Metagenomes Across a Complete Phytoplankton Bloom Cycle: High-Resolution Sampling Every 4 Hours Over 22 Days",
+      "year": 2024,
+      "venue": "Scientific Data",
+      "type": "data-paper",
+      "authors": [
+        "Brook L. Nunn",
+        "Emma Timmins‐Schiffman",
+        "Miranda C. Mudge",
+        "Deanna L. Plubell",
+        "Gabriella Chebli",
+        "Julia Kubanek",
+        "Michael Riffle",
+        "William Stafford Noble",
+        "Elizabeth L. Harvey",
+        "Tasman A. Nunn",
+        "Tatiana Rynearson",
+        "Marcel Huntemann",
+        "Kurt LaButti",
+        "Brian Foster",
+        "Bryce Foster",
+        "Simon Roux",
+        "Krishna Palaniappan",
+        "Supratim Mukherjee",
+        "T. B. K. Reddy",
+        "Chris Daum",
+        "Alex Copeland",
+        "I-Min A. Chen",
+        "Natalia Ivanova",
+        "Nikos C. Kyrpides",
+        "Tijana Glavina del Rio",
+        "Emiley A. Eloe‐Fadrosh"
+      ],
+      "self_author_index": 1,
+      "cited_by_count": 7,
+      "doi": "https://doi.org/10.1038/s41597-024-04013-5"
+    },
+    {
+      "title": "Removal of Exogenous Stimuli Reveals a Canalization of Circadian Physiology in a Vertically Migrating Copepod",
+      "year": 2024,
+      "venue": "Journal of Proteome Research",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Amy E. Maas",
+        "Rayhan Khanna",
+        "Leocadio Blanco‐Bercial",
+        "Eric Huang",
+        "Brook L. Nunn"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 1,
+      "doi": "https://doi.org/10.1021/acs.jproteome.4c00086"
+    },
+    {
+      "title": "Reproductive resilience: pathways to gametogenic success in Montipora capitata after bleaching",
+      "year": 2024,
+      "venue": "Scientific Reports",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "E Duselis",
+        "Tony Brown",
+        "J B Axworthy",
+        "C H Backstrom",
+        "Michael Riffle",
+        "J.R. Dilworth",
+        "Carly D. Kenkel",
+        "Lisa J. Rodrigues",
+        "Brook L. Nunn",
+        "Jacqueline L. Padilla‐Gamiño"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 4,
+      "doi": "https://doi.org/10.1038/s41598-024-78768-7"
+    },
+    {
+      "title": "Time course transcriptomic profiling suggests Crp/Fnr transcriptional regulation of nosZ gene in a N2O-reducing thermophile",
+      "year": 2024,
+      "venue": "iScience",
+      "type": "article",
+      "authors": [
+        "Jiro Tsuchiya",
+        "Sayaka Mino",
+        "Fuki Fujiwara",
+        "Nao Okuma",
+        "Yasunori Ichihashi",
+        "Robert M. Morris",
+        "Brook L. Nunn",
+        "Emma Timmins‐Schiffman",
+        "Tomoo Sawabe"
+      ],
+      "self_author_index": 7,
+      "cited_by_count": 1,
+      "doi": "https://doi.org/10.1016/j.isci.2024.111074"
+    },
+    {
+      "title": "Proteomic response of early juvenile Pacific oysters ( <i>Crassostrea gigas</i> ) to temperature",
+      "year": 2022,
+      "venue": "PeerJ",
+      "type": "article",
+      "authors": [
+        "Grace Crandall",
+        "Rhonda Elliott Thompson",
+        "Benoït Eudeline",
+        "Brent Vadopalas",
+        "Emma Timmins‐Schiffman",
+        "Steven Roberts"
+      ],
+      "self_author_index": 4,
+      "cited_by_count": 6,
+      "doi": "https://doi.org/10.7717/peerj.14158"
+    },
+    {
+      "title": "Shotgun Proteomics Identifies Active Metabolic Pathways in Bleached Coral Tissue and Intraskeletal Compartments",
+      "year": 2022,
+      "venue": "Frontiers in Marine Science",
+      "type": "article",
+      "authors": [
+        "Jeremy B. Axworthy",
+        "Emma Timmins‐Schiffman",
+        "Tanya Brown",
+        "Lisa J. Rodrigues",
+        "Brook L. Nunn",
+        "Jacqueline L. Padilla‐Gamiño"
+      ],
+      "self_author_index": 1,
+      "cited_by_count": 21,
+      "doi": "https://doi.org/10.3389/fmars.2022.797517"
+    },
+    {
+      "title": "Transitioning global change experiments on Southern Ocean phytoplankton from lab to field settings: Insights and challenges",
+      "year": 2022,
+      "venue": "Limnology and Oceanography",
+      "type": "article",
+      "authors": [
+        "Philip W. Boyd",
+        "Scott C. Doney",
+        "Sam Eggins",
+        "Michael J. Ellwood",
+        "Marion Fourquez",
+        "Brook L. Nunn",
+        "Robert F. Strzepek",
+        "Emma Timmins‐Schiffman"
+      ],
+      "self_author_index": 7,
+      "cited_by_count": 11,
+      "doi": "https://doi.org/10.1002/lno.12175"
+    },
+    {
+      "title": "Coupled microbiome analyses highlights relative functional roles of bacteria in a bivalve hatchery",
+      "year": 2021,
+      "venue": "Environmental Microbiome",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Samuel J. White",
+        "Rhonda Elliott Thompson",
+        "Brent Vadopalas",
+        "Benoït Eudeline",
+        "Brook L. Nunn",
+        "Steven Roberts"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 20,
+      "doi": "https://doi.org/10.1186/s40793-021-00376-z"
+    },
+    {
+      "title": "Physiological and molecular responses of lobe coral indicate nearshore adaptations to anthropogenic stressors",
+      "year": 2021,
+      "venue": "Scientific Reports",
+      "type": "article",
+      "authors": [
+        "Kaho H. Tisthammer",
+        "Emma Timmins‐Schiffman",
+        "François Seneca",
+        "Brook L. Nunn",
+        "Robert H. Richmond"
+      ],
+      "self_author_index": 1,
+      "cited_by_count": 48,
+      "doi": "https://doi.org/10.1038/s41598-021-82569-7"
+    },
+    {
+      "title": "Larval Geoduck (Panopea generosa) Proteomic Response to Ciliates",
+      "year": 2020,
+      "venue": "Scientific Reports",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "José M. Guzmán",
+        "Rhonda Elliott Thompson",
+        "Brent Vadopalas",
+        "Benoït Eudeline",
+        "Steven Roberts"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 13,
+      "doi": "https://doi.org/10.1038/s41598-020-63218-x"
+    },
+    {
+      "title": "Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc",
+      "year": 2020,
+      "venue": "BMC Genomics",
+      "type": "article",
+      "authors": [
+        "Shelly A. Wanamaker",
+        "Kaitlyn R. Mitchell",
+        "Rhonda Elliott Thompson",
+        "Benoït Eudeline",
+        "Brent Vadopalas",
+        "Emma Timmins‐Schiffman",
+        "Steven Roberts"
+      ],
+      "self_author_index": 5,
+      "cited_by_count": 10,
+      "doi": "https://doi.org/10.1186/s12864-020-07127-3"
+    },
+    {
+      "title": "Characterization of Pacific oyster Crassostrea gigas proteomic response to natural environmental differences",
+      "year": 2019,
+      "venue": "Marine Ecology Progress Series",
+      "type": "article",
+      "authors": [
+        "Yaamini R. Venkataraman",
+        "Emma Timmins‐Schiffman",
+        "MJ Horwith",
+        "AT Lowe",
+        "Brook L. Nunn",
+        "Brent Vadopalas",
+        "LH Spencer",
+        "Steven Roberts"
+      ],
+      "self_author_index": 1,
+      "cited_by_count": 9,
+      "doi": "https://doi.org/10.3354/meps12858"
+    },
+    {
+      "title": "Dynamic response in the larval geoduck (<i>Panopea generosa</i>) proteome to elevated <i>p</i>CO<sub>2</sub>",
+      "year": 2019,
+      "venue": "Ecology and Evolution",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "José M. Guzmán",
+        "Rhonda Elliott Thompson",
+        "Brent Vadopalas",
+        "Benoït Eudeline",
+        "Steven Roberts"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 30,
+      "doi": "https://doi.org/10.1002/ece3.5885"
+    },
+    {
+      "title": "Growth phase proteomics of the heterotrophic marine bacterium Ruegeria pomeroyi",
+      "year": 2019,
+      "venue": "Scientific Data",
+      "type": "data-paper",
+      "authors": [
+        "Dasha Krayushkina",
+        "Emma Timmins‐Schiffman",
+        "Jessica Faux",
+        "Damon May",
+        "Michael Riffle",
+        "H. Rodger Harvey",
+        "Brook L. Nunn"
+      ],
+      "self_author_index": 1,
+      "cited_by_count": 3,
+      "doi": "https://doi.org/10.1038/s41597-019-0308-y"
+    },
+    {
+      "title": "Metaproteomics reveal that rapid perturbations in organic matter prioritize functional restructuring over taxonomy in western Arctic Ocean microbiomes",
+      "year": 2019,
+      "venue": "The ISME Journal",
+      "type": "article",
+      "authors": [
+        "Molly P. Mikan",
+        "H. Rodger Harvey",
+        "Emma Timmins‐Schiffman",
+        "Michael Riffle",
+        "Damon May",
+        "Ian Salter",
+        "William Stafford Noble",
+        "Brook L. Nunn"
+      ],
+      "self_author_index": 2,
+      "cited_by_count": 45,
+      "doi": "https://doi.org/10.1038/s41396-019-0503-z"
+    },
+    {
+      "title": "Pacific geoduck (Panopea generosa) resilience to natural pH variation",
+      "year": 2019,
+      "venue": "Comparative Biochemistry and Physiology Part D Genomics and Proteomics",
+      "type": "article",
+      "authors": [
+        "Laura H. Spencer",
+        "Micah Horwith",
+        "Alexander T. Lowe",
+        "Yaamini R. Venkataraman",
+        "Emma Timmins‐Schiffman",
+        "Brook L. Nunn",
+        "Steven Roberts"
+      ],
+      "self_author_index": 4,
+      "cited_by_count": 16,
+      "doi": "https://doi.org/10.1016/j.cbd.2019.01.010"
+    },
+    {
+      "title": "MS analysis of a dilution series of bacteria:phytoplankton to improve detection of low abundance bacterial peptides",
+      "year": 2018,
+      "venue": "Scientific Reports",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Molly P. Mikan",
+        "Ying S. Ting",
+        "H. Rodger Harvey",
+        "Brook L. Nunn"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 6,
+      "doi": "https://doi.org/10.1038/s41598-018-27650-4"
+    },
+    {
+      "title": "Variations in Copepod Proteome and Respiration Rate in Association with Diel Vertical Migration and Circadian Cycle",
+      "year": 2018,
+      "venue": "Biological Bulletin",
+      "type": "article",
+      "authors": [
+        "Amy E. Maas",
+        "Leocadio Blanco‐Bercial",
+        "Ali Lo",
+        "Ann M. Tarrant",
+        "Emma Timmins‐Schiffman"
+      ],
+      "self_author_index": 4,
+      "cited_by_count": 19,
+      "doi": "https://doi.org/10.1086/699219"
+    },
+    {
+      "title": "Differential impacts of individual and combined exposures of deoxynivalenol and zearalenone on the HepaRG human hepatic cell proteome",
+      "year": 2017,
+      "venue": "Journal of Proteomics",
+      "type": "article",
+      "authors": [
+        "Marie-Caroline Smith",
+        "Emma Timmins‐Schiffman",
+        "Monika Coton",
+        "Emmanuel Coton",
+        "Nolwenn Hymery",
+        "Brook L. Nunn",
+        "Stéphanie Madec"
+      ],
+      "self_author_index": 1,
+      "cited_by_count": 14,
+      "doi": "https://doi.org/10.1016/j.jprot.2017.11.025"
+    },
+    {
+      "title": "Human‐mediated evolution in a threatened species? Juvenile life‐history changes in Snake River salmon",
+      "year": 2017,
+      "venue": "Evolutionary Applications",
+      "type": "article",
+      "authors": [
+        "Robin S. Waples",
+        "Anna Elz",
+        "Billy D. Arnsberg",
+        "James R. Faulkner",
+        "Jeffrey J. Hard",
+        "Emma Timmins‐Schiffman",
+        "Linda K. Park"
+      ],
+      "self_author_index": 5,
+      "cited_by_count": 22,
+      "doi": "https://doi.org/10.1111/eva.12468"
+    },
+    {
+      "title": "Integrating Discovery-driven Proteomics and Selected Reaction Monitoring To Develop a Noninvasive Assay for Geoduck Reproductive Maturation",
+      "year": 2017,
+      "venue": "Journal of Proteome Research",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Grace Crandall",
+        "Brent Vadopalas",
+        "Michael Riffle",
+        "Brook L. Nunn",
+        "Steven Roberts"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 31,
+      "doi": "https://doi.org/10.1021/acs.jproteome.7b00288"
+    },
+    {
+      "title": "MetaGOmics: A Web-Based Tool for Peptide-Centric Functional and Taxonomic Analysis of Metaproteomics Data",
+      "year": 2017,
+      "venue": "Proteomes",
+      "type": "article",
+      "authors": [
+        "Michael Riffle",
+        "Damon May",
+        "Emma Timmins‐Schiffman",
+        "Molly P. Mikan",
+        "Daniel Jaschob",
+        "William Stafford Noble",
+        "Brook L. Nunn"
+      ],
+      "self_author_index": 2,
+      "cited_by_count": 74,
+      "doi": "https://doi.org/10.3390/proteomes6010002"
+    },
+    {
+      "title": "An Alignment-Free “Metapeptide” Strategy for Metaproteomic Characterization of Microbiome Samples Using Shotgun Metagenomic Sequencing",
+      "year": 2016,
+      "venue": "Journal of Proteome Research",
+      "type": "article",
+      "authors": [
+        "Damon May",
+        "Emma Timmins‐Schiffman",
+        "Molly P. Mikan",
+        "H. Rodger Harvey",
+        "Elhanan Borenstein",
+        "Brook L. Nunn",
+        "William Stafford Noble"
+      ],
+      "self_author_index": 1,
+      "cited_by_count": 53,
+      "doi": "https://doi.org/10.1021/acs.jproteome.6b00239"
+    },
+    {
+      "title": "Critical decisions in metaproteomics: achieving high confidence protein annotations in a sea of unknowns",
+      "year": 2016,
+      "venue": "The ISME Journal",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Damon May",
+        "Molly P. Mikan",
+        "Michael Riffle",
+        "Chris Frazar",
+        "H. Rodger Harvey",
+        "William Stafford Noble",
+        "Brook L. Nunn"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 94,
+      "doi": "https://doi.org/10.1038/ismej.2016.132"
+    },
+    {
+      "title": "Physiological responses of a Southern Ocean diatom to complex future ocean conditions",
+      "year": 2015,
+      "venue": "Nature Climate Change",
+      "type": "article",
+      "authors": [
+        "Philip W. Boyd",
+        "Peter W. Dillingham",
+        "Christina M. McGraw",
+        "Edward A. Armstrong",
+        "Christopher E. Cornwall",
+        "Yuanyuan Feng",
+        "Catriona L. Hurd",
+        "Melanie Gault‐Ringold",
+        "Michael Y. Roleda",
+        "Emma Timmins‐Schiffman",
+        "Brook L. Nunn"
+      ],
+      "self_author_index": 9,
+      "cited_by_count": 192,
+      "doi": "https://doi.org/10.1038/nclimate2811"
+    },
+    {
+      "title": "All dam-affected trout populations are not alike: fine scale geographic variability in resident rainbow trout in Icicle Creek, WA, USA",
+      "year": 2014,
+      "venue": "Conservation Genetics",
+      "type": "article",
+      "authors": [
+        "Gary A. Winans",
+        "Nick Gayeski",
+        "Emma Timmins‐Schiffman"
+      ],
+      "self_author_index": 2,
+      "cited_by_count": 10,
+      "doi": "https://doi.org/10.1007/s10592-014-0659-z"
+    },
+    {
+      "title": "Proteomics of <scp> <i>C</i> </scp> <i>olwellia psychrerythraea</i> at subzero temperatures – a life with limited movement, flexible membranes and vital DNA repair",
+      "year": 2014,
+      "venue": "Environmental Microbiology",
+      "type": "article",
+      "authors": [
+        "Brook L. Nunn",
+        "Krystal Slattery",
+        "Karen A. Cameron",
+        "Emma Timmins‐Schiffman",
+        "Karen Junge"
+      ],
+      "self_author_index": 3,
+      "cited_by_count": 47,
+      "doi": "https://doi.org/10.1111/1462-2920.12691"
+    },
+    {
+      "title": "Shotgun proteomics reveals physiological response to ocean acidification in Crassostrea gigas",
+      "year": 2014,
+      "venue": "BMC Genomics",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "William D Coffey",
+        "Wilber Hua",
+        "Brook L. Nunn",
+        "Gary H. Dickinson",
+        "Steven Roberts"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 123,
+      "doi": "https://doi.org/10.1186/1471-2164-15-951"
+    },
+    {
+      "title": "Shotgun proteomics as a viable approach for biological discovery in the Pacific oyster",
+      "year": 2013,
+      "venue": "Conservation Physiology",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Brook L. Nunn",
+        "David R. Goodlett",
+        "Steven Roberts"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 15,
+      "doi": "https://doi.org/10.1093/conphys/cot009"
+    },
+    {
+      "title": "Characterization of genes involved in ceramide metabolism in the Pacific oyster (Crassostrea gigas)",
+      "year": 2012,
+      "venue": "BMC Research Notes",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Steven Roberts"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 21,
+      "doi": "https://doi.org/10.1186/1756-0500-5-502"
+    },
+    {
+      "title": "Elevated pCO2 causes developmental delay in early larval Pacific oysters, Crassostrea gigas",
+      "year": 2012,
+      "venue": "Marine Biology",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Michael J. O’Donnell",
+        "Carolyn S. Friedman",
+        "Steven Roberts"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 89,
+      "doi": "https://doi.org/10.1007/s00227-012-2055-x"
+    },
+    {
+      "title": "Genomic resource development for shellfish of conservation concern",
+      "year": 2012,
+      "venue": "Molecular Ecology Resources",
+      "type": "article",
+      "authors": [
+        "Emma Timmins‐Schiffman",
+        "Carolyn S. Friedman",
+        "Dave C. Metzger",
+        "Samuel J. White",
+        "Steven Roberts"
+      ],
+      "self_author_index": 0,
+      "cited_by_count": 14,
+      "doi": "https://doi.org/10.1111/1755-0998.12052"
+    }
+  ],
+  "notes": [
+    "Citation-by-year data comes from OpenAlex's counts_by_year field, which typically only covers roughly the last 10 years; citations to older papers accrued before that window are included in total counts but not in the earliest years of the chart."
+  ]
+}

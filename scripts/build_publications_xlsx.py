@@ -5,7 +5,7 @@ Usage:
     python3 build_publications_xlsx.py [data_dir]
 
 Writes data/publications.xlsx with columns:
-Title, Year, Venue, Type, Co-authors
+Title, Year, Venue, Type, Authors (full byline order, including Emma at her actual position)
 """
 import json
 import sys
@@ -16,7 +16,7 @@ from openpyxl.styles import Font
 from openpyxl.utils import get_column_letter
 
 FONT = "Arial"
-HEADERS = ["Title", "Year", "Venue", "Type", "Co-authors"]
+HEADERS = ["Title", "Year", "Venue", "Type", "Authors"]
 
 
 def main():
@@ -36,7 +36,7 @@ def main():
         ws.cell(row=row, column=2, value=pub["year"]).font = Font(name=FONT)
         ws.cell(row=row, column=3, value=pub["venue"]).font = Font(name=FONT)
         ws.cell(row=row, column=4, value=pub["type"]).font = Font(name=FONT)
-        ws.cell(row=row, column=5, value="; ".join(pub["co_authors"])).font = Font(name=FONT)
+        ws.cell(row=row, column=5, value="; ".join(pub["authors"])).font = Font(name=FONT)
 
     widths = {1: 70, 2: 8, 3: 35, 4: 14, 5: 60}
     for col, width in widths.items():

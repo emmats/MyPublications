@@ -4,16 +4,18 @@
     "year": 2025,
     "venue": "Nature Communications",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Miranda C. Mudge",
       "Michael Riffle",
       "Gabriella Chebli",
       "Deanna L. Plubell",
       "Tatiana A. Rynearson",
       "William Stafford Noble",
+      "Emma Timmins‐Schiffman",
       "Julia Kubanek",
       "Brook L. Nunn"
     ],
+    "self_author_index": 6,
     "cited_by_count": 14,
     "counts_by_year": [
       {
@@ -33,16 +35,18 @@
     "year": 2025,
     "venue": "Journal of Experimental Biology",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Josep V. Planas",
       "Andrew Jasonowicz",
       "Anna Simeon",
       "Crystal Simchick",
+      "Emma Timmins‐Schiffman",
       "Brook L. Nunn",
       "Anita C. Kroska",
       "Nathan Wolf",
       "Thomas P. Hurst"
     ],
+    "self_author_index": 4,
     "cited_by_count": 0,
     "counts_by_year": [],
     "doi": "https://doi.org/10.1242/jeb.251013",
@@ -53,7 +57,8 @@
     "year": 2025,
     "venue": "Aquaculture",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Larken Root",
       "Ryan Crim",
       "Mollie A. Middleton",
@@ -64,6 +69,7 @@
       "Steven Roberts",
       "Mackenzie Gavery"
     ],
+    "self_author_index": 0,
     "cited_by_count": 1,
     "counts_by_year": [
       {
@@ -79,9 +85,10 @@
     "year": 2025,
     "venue": "Communications Earth & Environment",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Brook L. Nunn",
       "Tanya Brown",
+      "Emma Timmins‐Schiffman",
       "Miranda C. Mudge",
       "Michael Riffle",
       "Jeremy B. Axworthy",
@@ -91,6 +98,7 @@
       "Lisa J. Rodrigues",
       "Jacqueline L. Padilla‐Gamiño"
     ],
+    "self_author_index": 2,
     "cited_by_count": 14,
     "counts_by_year": [
       {
@@ -110,14 +118,16 @@
     "year": 2025,
     "venue": "Astrobiology",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Anais S. Gentilhomme",
       "Kusum Dhakar",
+      "Emma Timmins‐Schiffman",
       "Matthew Chaw",
       "Erin Firth",
       "Karen Junge",
       "Brook L. Nunn"
     ],
+    "self_author_index": 2,
     "cited_by_count": 2,
     "counts_by_year": [
       {
@@ -137,7 +147,8 @@
     "year": 2025,
     "venue": "Journal of Proteome Research",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Rayhan Khanna",
       "Tanya Brown",
       "Jenna Dilworth",
@@ -149,6 +160,7 @@
       "Brook L. Nunn",
       "Jacqueline L. Padilla‐Gamiño"
     ],
+    "self_author_index": 0,
     "cited_by_count": 3,
     "counts_by_year": [
       {
@@ -164,7 +176,8 @@
     "year": 2024,
     "venue": "PROTEOMICS",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Jennifer Telish",
       "Chelsea Field",
       "Chris Monson",
@@ -173,6 +186,7 @@
       "Graham Young",
       "Kristy L. Forsgren"
     ],
+    "self_author_index": 0,
     "cited_by_count": 1,
     "counts_by_year": [
       {
@@ -188,7 +202,7 @@
     "year": 2024,
     "venue": "Marine Mammal Science",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Amy M. Van Cise",
       "Alexandra D. Switzer",
       "Amy Apprill",
@@ -205,9 +219,11 @@
       "Sarah E. Nelms",
       "Kelly M. Robertson",
       "Irvin R. Schultz",
+      "Emma Timmins‐Schiffman",
       "Ebru Ünal",
       "Kim M. Parsons"
     ],
+    "self_author_index": 16,
     "cited_by_count": 17,
     "counts_by_year": [
       {
@@ -231,13 +247,15 @@
     "year": 2024,
     "venue": "Molecular Ecology",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Amy E. Maas",
+      "Emma Timmins‐Schiffman",
       "Ann M. Tarrant",
       "Brook L. Nunn",
       "Jea Park",
       "Leocadio Blanco‐Bercial"
     ],
+    "self_author_index": 1,
     "cited_by_count": 8,
     "counts_by_year": [
       {
@@ -261,8 +279,9 @@
     "year": 2024,
     "venue": "Scientific Data",
     "type": "data-paper",
-    "co_authors": [
+    "authors": [
       "Brook L. Nunn",
+      "Emma Timmins‐Schiffman",
       "Miranda C. Mudge",
       "Deanna L. Plubell",
       "Gabriella Chebli",
@@ -288,6 +307,7 @@
       "Tijana Glavina del Rio",
       "Emiley A. Eloe‐Fadrosh"
     ],
+    "self_author_index": 1,
     "cited_by_count": 7,
     "counts_by_year": [
       {
@@ -311,13 +331,15 @@
     "year": 2024,
     "venue": "Journal of Proteome Research",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Amy E. Maas",
       "Rayhan Khanna",
       "Leocadio Blanco‐Bercial",
       "Eric Huang",
       "Brook L. Nunn"
     ],
+    "self_author_index": 0,
     "cited_by_count": 1,
     "counts_by_year": [
       {
@@ -333,7 +355,8 @@
     "year": 2024,
     "venue": "Scientific Reports",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "E Duselis",
       "Tony Brown",
       "J B Axworthy",
@@ -345,6 +368,7 @@
       "Brook L. Nunn",
       "Jacqueline L. Padilla‐Gamiño"
     ],
+    "self_author_index": 0,
     "cited_by_count": 4,
     "counts_by_year": [
       {
@@ -364,7 +388,7 @@
     "year": 2024,
     "venue": "iScience",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Jiro Tsuchiya",
       "Sayaka Mino",
       "Fuki Fujiwara",
@@ -372,8 +396,10 @@
       "Yasunori Ichihashi",
       "Robert M. Morris",
       "Brook L. Nunn",
+      "Emma Timmins‐Schiffman",
       "Tomoo Sawabe"
     ],
+    "self_author_index": 7,
     "cited_by_count": 1,
     "counts_by_year": [
       {
@@ -389,13 +415,15 @@
     "year": 2022,
     "venue": "PeerJ",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Grace Crandall",
       "Rhonda Elliott Thompson",
       "Benoït Eudeline",
       "Brent Vadopalas",
+      "Emma Timmins‐Schiffman",
       "Steven Roberts"
     ],
+    "self_author_index": 4,
     "cited_by_count": 6,
     "counts_by_year": [
       {
@@ -427,13 +455,15 @@
     "year": 2022,
     "venue": "Frontiers in Marine Science",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Jeremy B. Axworthy",
+      "Emma Timmins‐Schiffman",
       "Tanya Brown",
       "Lisa J. Rodrigues",
       "Brook L. Nunn",
       "Jacqueline L. Padilla‐Gamiño"
     ],
+    "self_author_index": 1,
     "cited_by_count": 21,
     "counts_by_year": [
       {
@@ -461,15 +491,17 @@
     "year": 2022,
     "venue": "Limnology and Oceanography",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Philip W. Boyd",
       "Scott C. Doney",
       "Sam Eggins",
       "Michael J. Ellwood",
       "Marion Fourquez",
       "Brook L. Nunn",
-      "Robert F. Strzepek"
+      "Robert F. Strzepek",
+      "Emma Timmins‐Schiffman"
     ],
+    "self_author_index": 7,
     "cited_by_count": 11,
     "counts_by_year": [
       {
@@ -497,7 +529,8 @@
     "year": 2021,
     "venue": "Environmental Microbiome",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Samuel J. White",
       "Rhonda Elliott Thompson",
       "Brent Vadopalas",
@@ -505,6 +538,7 @@
       "Brook L. Nunn",
       "Steven Roberts"
     ],
+    "self_author_index": 0,
     "cited_by_count": 20,
     "counts_by_year": [
       {
@@ -544,12 +578,14 @@
     "year": 2021,
     "venue": "Scientific Reports",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Kaho H. Tisthammer",
+      "Emma Timmins‐Schiffman",
       "François Seneca",
       "Brook L. Nunn",
       "Robert H. Richmond"
     ],
+    "self_author_index": 1,
     "cited_by_count": 48,
     "counts_by_year": [
       {
@@ -585,13 +621,15 @@
     "year": 2020,
     "venue": "Scientific Reports",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "José M. Guzmán",
       "Rhonda Elliott Thompson",
       "Brent Vadopalas",
       "Benoït Eudeline",
       "Steven Roberts"
     ],
+    "self_author_index": 0,
     "cited_by_count": 13,
     "counts_by_year": [
       {
@@ -627,14 +665,16 @@
     "year": 2020,
     "venue": "BMC Genomics",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Shelly A. Wanamaker",
       "Kaitlyn R. Mitchell",
       "Rhonda Elliott Thompson",
       "Benoït Eudeline",
       "Brent Vadopalas",
+      "Emma Timmins‐Schiffman",
       "Steven Roberts"
     ],
+    "self_author_index": 5,
     "cited_by_count": 10,
     "counts_by_year": [
       {
@@ -666,8 +706,9 @@
     "year": 2019,
     "venue": "Marine Ecology Progress Series",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Yaamini R. Venkataraman",
+      "Emma Timmins‐Schiffman",
       "MJ Horwith",
       "AT Lowe",
       "Brook L. Nunn",
@@ -675,6 +716,7 @@
       "LH Spencer",
       "Steven Roberts"
     ],
+    "self_author_index": 1,
     "cited_by_count": 9,
     "counts_by_year": [
       {
@@ -706,13 +748,15 @@
     "year": 2019,
     "venue": "Ecology and Evolution",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "José M. Guzmán",
       "Rhonda Elliott Thompson",
       "Brent Vadopalas",
       "Benoït Eudeline",
       "Steven Roberts"
     ],
+    "self_author_index": 0,
     "cited_by_count": 30,
     "counts_by_year": [
       {
@@ -752,14 +796,16 @@
     "year": 2019,
     "venue": "Scientific Data",
     "type": "data-paper",
-    "co_authors": [
+    "authors": [
       "Dasha Krayushkina",
+      "Emma Timmins‐Schiffman",
       "Jessica Faux",
       "Damon May",
       "Michael Riffle",
       "H. Rodger Harvey",
       "Brook L. Nunn"
     ],
+    "self_author_index": 1,
     "cited_by_count": 3,
     "counts_by_year": [
       {
@@ -783,15 +829,17 @@
     "year": 2019,
     "venue": "The ISME Journal",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Molly P. Mikan",
       "H. Rodger Harvey",
+      "Emma Timmins‐Schiffman",
       "Michael Riffle",
       "Damon May",
       "Ian Salter",
       "William Stafford Noble",
       "Brook L. Nunn"
     ],
+    "self_author_index": 2,
     "cited_by_count": 45,
     "counts_by_year": [
       {
@@ -831,14 +879,16 @@
     "year": 2019,
     "venue": "Comparative Biochemistry and Physiology Part D Genomics and Proteomics",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Laura H. Spencer",
       "Micah Horwith",
       "Alexander T. Lowe",
       "Yaamini R. Venkataraman",
+      "Emma Timmins‐Schiffman",
       "Brook L. Nunn",
       "Steven Roberts"
     ],
+    "self_author_index": 4,
     "cited_by_count": 16,
     "counts_by_year": [
       {
@@ -874,12 +924,14 @@
     "year": 2018,
     "venue": "Scientific Reports",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Molly P. Mikan",
       "Ying S. Ting",
       "H. Rodger Harvey",
       "Brook L. Nunn"
     ],
+    "self_author_index": 0,
     "cited_by_count": 6,
     "counts_by_year": [
       {
@@ -911,12 +963,14 @@
     "year": 2018,
     "venue": "Biological Bulletin",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Amy E. Maas",
       "Leocadio Blanco‐Bercial",
       "Ali Lo",
-      "Ann M. Tarrant"
+      "Ann M. Tarrant",
+      "Emma Timmins‐Schiffman"
     ],
+    "self_author_index": 4,
     "cited_by_count": 19,
     "counts_by_year": [
       {
@@ -960,14 +1014,16 @@
     "year": 2017,
     "venue": "Journal of Proteomics",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Marie-Caroline Smith",
+      "Emma Timmins‐Schiffman",
       "Monika Coton",
       "Emmanuel Coton",
       "Nolwenn Hymery",
       "Brook L. Nunn",
       "Stéphanie Madec"
     ],
+    "self_author_index": 1,
     "cited_by_count": 14,
     "counts_by_year": [
       {
@@ -1007,14 +1063,16 @@
     "year": 2017,
     "venue": "Evolutionary Applications",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Robin S. Waples",
       "Anna Elz",
       "Billy D. Arnsberg",
       "James R. Faulkner",
       "Jeffrey J. Hard",
+      "Emma Timmins‐Schiffman",
       "Linda K. Park"
     ],
+    "self_author_index": 5,
     "cited_by_count": 22,
     "counts_by_year": [
       {
@@ -1062,13 +1120,15 @@
     "year": 2017,
     "venue": "Journal of Proteome Research",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Grace Crandall",
       "Brent Vadopalas",
       "Michael Riffle",
       "Brook L. Nunn",
       "Steven Roberts"
     ],
+    "self_author_index": 0,
     "cited_by_count": 31,
     "counts_by_year": [
       {
@@ -1108,14 +1168,16 @@
     "year": 2017,
     "venue": "Proteomes",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Michael Riffle",
       "Damon May",
+      "Emma Timmins‐Schiffman",
       "Molly P. Mikan",
       "Daniel Jaschob",
       "William Stafford Noble",
       "Brook L. Nunn"
     ],
+    "self_author_index": 2,
     "cited_by_count": 74,
     "counts_by_year": [
       {
@@ -1163,14 +1225,16 @@
     "year": 2016,
     "venue": "Journal of Proteome Research",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Damon May",
+      "Emma Timmins‐Schiffman",
       "Molly P. Mikan",
       "H. Rodger Harvey",
       "Elhanan Borenstein",
       "Brook L. Nunn",
       "William Stafford Noble"
     ],
+    "self_author_index": 1,
     "cited_by_count": 53,
     "counts_by_year": [
       {
@@ -1226,7 +1290,8 @@
     "year": 2016,
     "venue": "The ISME Journal",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Damon May",
       "Molly P. Mikan",
       "Michael Riffle",
@@ -1235,6 +1300,7 @@
       "William Stafford Noble",
       "Brook L. Nunn"
     ],
+    "self_author_index": 0,
     "cited_by_count": 94,
     "counts_by_year": [
       {
@@ -1286,7 +1352,7 @@
     "year": 2015,
     "venue": "Nature Climate Change",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Philip W. Boyd",
       "Peter W. Dillingham",
       "Christina M. McGraw",
@@ -1296,8 +1362,10 @@
       "Catriona L. Hurd",
       "Melanie Gault‐Ringold",
       "Michael Y. Roleda",
+      "Emma Timmins‐Schiffman",
       "Brook L. Nunn"
     ],
+    "self_author_index": 9,
     "cited_by_count": 192,
     "counts_by_year": [
       {
@@ -1353,10 +1421,12 @@
     "year": 2014,
     "venue": "Conservation Genetics",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Gary A. Winans",
-      "Nick Gayeski"
+      "Nick Gayeski",
+      "Emma Timmins‐Schiffman"
     ],
+    "self_author_index": 2,
     "cited_by_count": 10,
     "counts_by_year": [
       {
@@ -1396,12 +1466,14 @@
     "year": 2014,
     "venue": "Environmental Microbiology",
     "type": "article",
-    "co_authors": [
+    "authors": [
       "Brook L. Nunn",
       "Krystal Slattery",
       "Karen A. Cameron",
+      "Emma Timmins‐Schiffman",
       "Karen Junge"
     ],
+    "self_author_index": 3,
     "cited_by_count": 47,
     "counts_by_year": [
       {
@@ -1453,13 +1525,15 @@
     "year": 2014,
     "venue": "BMC Genomics",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "William D Coffey",
       "Wilber Hua",
       "Brook L. Nunn",
       "Gary H. Dickinson",
       "Steven Roberts"
     ],
+    "self_author_index": 0,
     "cited_by_count": 123,
     "counts_by_year": [
       {
@@ -1523,11 +1597,13 @@
     "year": 2013,
     "venue": "Conservation Physiology",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Brook L. Nunn",
       "David R. Goodlett",
       "Steven Roberts"
     ],
+    "self_author_index": 0,
     "cited_by_count": 15,
     "counts_by_year": [
       {
@@ -1571,9 +1647,11 @@
     "year": 2012,
     "venue": "BMC Research Notes",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Steven Roberts"
     ],
+    "self_author_index": 0,
     "cited_by_count": 21,
     "counts_by_year": [
       {
@@ -1621,11 +1699,13 @@
     "year": 2012,
     "venue": "Marine Biology",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Michael J. O’Donnell",
       "Carolyn S. Friedman",
       "Steven Roberts"
     ],
+    "self_author_index": 0,
     "cited_by_count": 89,
     "counts_by_year": [
       {
@@ -1689,12 +1769,14 @@
     "year": 2012,
     "venue": "Molecular Ecology Resources",
     "type": "article",
-    "co_authors": [
+    "authors": [
+      "Emma Timmins‐Schiffman",
       "Carolyn S. Friedman",
       "Dave C. Metzger",
       "Samuel J. White",
       "Steven Roberts"
     ],
+    "self_author_index": 0,
     "cited_by_count": 14,
     "counts_by_year": [
       {

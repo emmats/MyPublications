@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Emma Timmins-Schiffman — Publications</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap hero-inner">
+    <img class="hero-photo" src="assets/headshot.jpg" alt="Emma Timmins-Schiffman">
+    <div class="hero-text">
+      <h1>Emma Timmins-Schiffman</h1>
+      <p class="hero-role">Research Scientist, Nunn Lab · University of Washington</p>
+      <p class="hero-bio">
+        Emma Timmins-Schiffman is a Research Scientist in the Nunn Lab at the University of Washington,
+        studying the molecular mechanisms underlying interactions between marine populations and their
+        environment. Her work spans population genetics, metagenomics, and transcriptomics, with a current
+        focus on proteomics applied to marine organisms ranging from bacteria to bivalves. She received her
+        MS from Stanford University in Biological Sciences and her PhD from the University of Washington in
+        Aquatic and Fishery Sciences.
+      </p>
+      <div class="hero-links">
+        <a href="https://orcid.org/0000-0002-2478-6541" target="_blank" rel="noopener">ORCID</a>
+        <a href="https://emmatimminsschiffman.weebly.com/" target="_blank" rel="noopener">Website</a>
+        <a href="https://www.researchgate.net/profile/Emma_Timmins-Schiffman" target="_blank" rel="noopener">ResearchGate</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <div class="stats-row">
+    <div class="stat-tile">
+      <div class="stat-value" id="stat-papers">–</div>
+      <div class="stat-label">Publications</div>
+    </div>
+    <div class="stat-tile">
+      <div class="stat-value" id="stat-citations">–</div>
+      <div class="stat-label">Total citations</div>
+    </div>
+    <div class="stat-tile">
+      <div class="stat-value" id="stat-hindex">–</div>
+      <div class="stat-label">h-index</div>
+    </div>
+  </div>
+
+  <section>
+    <h2>Citation growth over time</h2>
+    <div class="chart-card">
+      <div class="chart-wrap">
+        <svg id="chart-svg"></svg>
+        <div class="chart-tooltip" id="chart-tooltip"></div>
+      </div>
+    </div>
+    <p class="section-note">
+      Cumulative citations by year, aggregated across all publications. Citation-by-year data comes from
+      OpenAlex, which typically covers roughly the last 10 years — citations older papers accrued before
+      that window are included in total counts but not reflected in the earliest years shown here.
+    </p>
+  </section>
+
+  <section>
+    <h2>Publications</h2>
+    <div class="filter-bar">
+      <label for="sort-select">Sort by</label>
+      <select id="sort-select">
+        <option value="year-desc">Year (newest first)</option>
+        <option value="year-asc">Year (oldest first)</option>
+        <option value="citations-desc">Citations (most first)</option>
+        <option value="citations-asc">Citations (fewest first)</option>
+      </select>
+      <label for="type-select">Type</label>
+      <select id="type-select">
+        <option value="all">All</option>
+        <option value="article">Article</option>
+        <option value="data-paper">Data paper</option>
+      </select>
+      <span class="filter-count" id="filter-count"></span>
+    </div>
+    <ul class="paper-list" id="paper-list"></ul>
+  </section>
+
+</div>
+
+<footer>
+  Data sourced from <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a> and cross-checked against
+  <a href="https://emmatimminsschiffman.weebly.com/publications.html" target="_blank" rel="noopener">emmatimminsschiffman.weebly.com</a>.
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

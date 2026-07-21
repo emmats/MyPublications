@@ -31,15 +31,18 @@ def clean_work(w: dict) -> dict:
     source = loc.get("source") or {}
     venue = source.get("display_name")
 
+    # Keep the full author list in its original (byline) order, including
+    # Emma herself, so her position among co-authors is preserved.
     authors = [a["author"]["display_name"] for a in w.get("authorships", []) if a.get("author")]
-    co_authors = [a for a in authors if a.strip().lower() not in AUTHOR_SELF_NAMES]
+    self_index = next((i for i, a in enumerate(authors) if a.strip().lower() in AUTHOR_SELF_NAMES), None)
 
     return {
         "title": w.get("display_name"),
         "year": w.get("publication_year"),
         "venue": venue,
         "type": w.get("type"),
-        "co_authors": co_authors,
+        "authors": authors,
+        "self_author_index": self_index,
         "cited_by_count": w.get("cited_by_count"),
         "counts_by_year": w.get("counts_by_year", []),
         "doi": w.get("doi"),
